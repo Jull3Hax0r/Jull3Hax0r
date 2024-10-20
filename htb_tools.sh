@@ -1,3 +1,4 @@
+# This bash-script is installing tools to use in hack The Box Academy
 #!/bin/bash
 
 # Uppdatera systemet
