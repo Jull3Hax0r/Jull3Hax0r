@@ -1,4 +1,5 @@
 # This bash-script is installing tools to use in hack The Box Academy
+# To install this tools you need to use black arch repo and keys
 #!/bin/bash
 
 # Update the system
