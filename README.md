@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jull3Hax0r
 - 👀 I’m interested in CyberSec, Pentest,Computers,Network,Code
-- 🌱 I’m currently learning HTB Academy
+- 🌱 I’m currently learning pentesting @ HTB Academy
 - 📫 How to reach me jull3hax0r@proton.me
 - ⚡ Fun fact: ... I use Arch, btw:P
 
