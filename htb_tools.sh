@@ -1,10 +1,10 @@
 # This bash-script is installing tools to use in hack The Box Academy
 #!/bin/bash
 
-# Uppdatera systemet
+# Update the system
 sudo pacman -Syu --noconfirm
 
-# Installera nödvändiga verktyg
+# Install the tools
 tools=(
 nmap
 wireshark-qt
@@ -139,4 +139,4 @@ for tool in "${tools[@]}"; do
 sudo pacman -S --noconfirm $tool
 done
 
-echo "Install was ok!"
+echo "Install  ok!"
