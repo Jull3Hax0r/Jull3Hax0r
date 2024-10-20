@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning pentesting @ HTB Academy
 - 📫 How to reach me jull3hax0r@proton.me
 - ⚡ Fun fact: ... I use Arch, btw:P
+- <img src="www.misse.com/ss.jpg">
 
  
   Hello. I am currently studying at Hack The Box Academy to take their certificate for pentesting. Here I will put out some scripts that are good to have and maybe later on some of my own tools for pentesting.
