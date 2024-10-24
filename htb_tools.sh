@@ -6,6 +6,7 @@
 sudo pacman -Syu --noconfirm
 
 # Install the tools
+
 tools=(
 nmap
 wireshark-qt
@@ -134,6 +135,44 @@ automater
 webanalyze
 kerbrute
 crunch
+feroxbuster
+subjack
+httprobe
+dirsearch
+crackstation-wordlist
+seccomp-tools
+pwncat
+gitrob
+trufflehog
+xray
+gf
+amass
+massdns
+dnsx
+anew
+shodan
+arjun
+navi
+impacket-scripts
+evilginx2
+peass-ng
+certutil
+mimikatz
+r3con1z3r
+sherlock
+censys
+sublist3r
+ctfr
+projectdiscovery/nuclei-templates
+axiom
+parallelshell
+pwndbg
+radare2
+ghidra
+volatility
+autopsy
+openvas
+nessus
 )
 
 for tool in "${tools[@]}"; do
