@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning pentesting @ HTB Academy and Try Hack Me
 - 📫 How to reach me jull3hax0r@proton.me
 - ⚡ Fun fact: ... I use Arch, btw:P
+- visit https://jull3.se
 
 
  
