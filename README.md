@@ -14,7 +14,7 @@ I'm learning a lot every day:)
 
 Here you'll find some things I'm working on, but I'm not very active here at the moment because I'm busy with THM and HTB, but I'll try to put some things here over time.
 
-<img src="https://jull3.net/git.png">
+<img src="https://jull3.se/git.png">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀// Jull3Hax0R \\⠀⠀
 
