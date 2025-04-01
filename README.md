@@ -13,7 +13,7 @@ I love computers / IT, but above all security and hacking (white hat / ethical o
 I'm learning a lot every day:)
 
 Here you'll find some things I'm working on, but I'm not very active here at the moment because I'm busy with THM and HTB, but I'll try to put some things here over time.
-
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DEXCKOMNS2.png">
 <img src="https://jull3.se/git.png">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀// Jull3Hax0R \\⠀⠀
