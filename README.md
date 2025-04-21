@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jull3Hax0r
 - 👀 I’m interested in CyberSec, Pentest,Computers,Network,Code
-- 🌱 I’m currently learning pentesting @ HTB Academy and Try Hack Me
-- 📫 How to reach me jull3hax0r@proton.me
+- 📫 How to reach me jull3hax0r@proton.me (see gpg public key)
 - ⚡ Fun fact: ... I use Arch, btw:P
 - visit https://jull3.se
 
