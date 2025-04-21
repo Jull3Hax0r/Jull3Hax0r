@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jull3Hax0r
 - 👀 I’m interested in CyberSec, Pentest,Computers,Network,Code
-- 📫 How to reach me jull3hax0r@proton.me (see gpg <a href="gpg.md">public key</a>)
+- 📫 How to reach me jull3hax0r@proton.me (see GPG <a href="gpg.md">public key</a>)
 - ⚡ Fun fact: ... I use Arch, btw:P
 - visit https://jull3.se
 
