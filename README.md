@@ -11,7 +11,7 @@
   I  be doing a lot of CTFs on TryhackMe atm, so I'll be posting some writeups and tools I've created in connection with certain labs / CTFs.
   Here you'll find some things I'm working on, Keep an eye open, new things will come when you least expect it :D
 <img src="https://jull3.se/git.png">
-⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://tryhackme-badges.s3.amazonaws.com/Jull3.png" alt="Your Image Badge" />
+⠀⠀⠀⠀⠀⠀⠀⠀<center><img src="https://tryhackme-badges.s3.amazonaws.com/Jull3.png" alt="Your Image Badge" /></center>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀// Jull3Hax0R \\⠀⠀
 <!---
 Jull3Hax0r/Jull3Hax0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
