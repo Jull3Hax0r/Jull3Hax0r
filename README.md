@@ -6,10 +6,10 @@
 
 
  
-  Hello. I am currently studying at Hack The Box Academy and Try Hack Me and doing some boxes to take their certificate for pentesting.I mostly write in Python.
+  Hello.
   I love computers / IT, but above all security and hacking.
-
-Here you'll find some things I'm working on, Keep an eye open, new things will come when you least expect it :D
+  I  be doing a lot of CTFs on TryhackMe atm, so I'll be posting some writeups and tools I've created in connection with certain labs / CTFs.
+  Here you'll find some things I'm working on, Keep an eye open, new things will come when you least expect it :D
 <img src="https://jull3.se/git.png">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀// Jull3Hax0R \\⠀⠀
