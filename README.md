@@ -1,5 +1,4 @@
-
-[Author](https://img.shields.io/badge/Author-Jull3Hax0r-blue?style=flat-square&logo=github)
+![Author](https://img.shields.io/badge/Author-Jull3Hax0r-blue?style=flat-square&logo=github)
 - 👀 I’m interested in CyberSec, Pentest,Computers,Network,Code
 - How to reach me jull3hax0r@proton.me (see GPG <a href="gpg.md">public key</a>)
 - Fun fact: ... I use Arch, btw:P
