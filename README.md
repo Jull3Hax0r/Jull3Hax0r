@@ -13,7 +13,7 @@
    I  be doing a lot of CTFs on TryhackMe atm, so I'll be posting some writeups and tools I've created in connection with certain labs / CTFs.
    Here you'll find some things I'm working on, Keep an eye open, new things will come when you least expect it :D</p>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Jull3.png" alt="TryHackMe Badge" width="300"/>
+  
 </p>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
