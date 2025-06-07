@@ -1,4 +1,9 @@
-<center> - - :: Jull3 :: - - </center><br>
+<div align="center">
+
+- - :: Jull3 :: - -
+
+</div>
+
 
 ![White Hat](https://img.shields.io/badge/white_hat-Jull3Hax0r-informational?style=flat-square&logo=gnuprivacyguard&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-power--user-yellow?style=flat-square&logo=linux&logoColor=black)
