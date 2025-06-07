@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-cybersec-3776AB?style=flat-square&logo=python&logoColor=white)
 [![HACKOSINT CTF 2025 - FINISHER](https://api.eu.badgr.io/public/badges/ZAlz0ZjZQ06JGnK3DRtDVw/image)](https://api.eu.badgr.io/public/badges/ZAlz0ZjZQ06JGnK3DRtDVw)
 
-
+<img src="https://jull3.se/jull3git.png" alt="Jull3.se badge" width="160" style="border-radius: 16px; box-shadow: 0 4px 16px #0005;">
 
 👀 I’m interested in CyberSec, Pentest,Computers,Network,Code ......
 - How to reach me jull3hax0r@proton.me (see GPG <a href="gpg.md">public key</a>)
@@ -18,6 +18,8 @@
 <p align="center">
   
 </p>
+
+
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
