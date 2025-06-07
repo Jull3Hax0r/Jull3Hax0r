@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-active--user-black?style=flat-square&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-shell--scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-cybersec-3776AB?style=flat-square&logo=python&logoColor=white)
-[![HACKOSINT CTF 2025 - FINISHER](https://api.eu.badgr.io/public/badges/ZAlz0ZjZQ06JGnK3DRtDVw/image)](https://api.eu.badgr.io/public/badges/ZAlz0ZjZQ06JGnK3DRtDVw) <img src="https://jull3.se/jull3git.png" alt="Jull3.se badge" width="350" style="border-radius: 16px; box-shadow: 0 4px 16px #0005;">
+[![HACKOSINT CTF 2025 - FINISHER](https://api.eu.badgr.io/public/badges/ZAlz0ZjZQ06JGnK3DRtDVw/image)](https://api.eu.badgr.io/public/badges/ZAlz0ZjZQ06JGnK3DRtDVw) <img src="https://jull3.se/jull3git.png" alt="Jull3.se badge" width="315" style="border-radius: 16px; box-shadow: 0 4px 16px #0005;">
 
 
 
