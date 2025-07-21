@@ -1,5 +1,6 @@
 ![White Hat](https://img.shields.io/badge/white_hat-Jull3Hax0r-informational?style=flat-square&logo=gnuprivacyguard&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-power--user-yellow?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-active--user-black?style=flat-square&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-shell--scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-cybersec-3776AB?style=flat-square&logo=python&logoColor=white)
